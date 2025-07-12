@@ -1,0 +1,7 @@
+pip install  Pandas
+pip install   NumPy
+pip install  Matplotlib
+pip install  Seaborn
+pip install  yfinance
+pip install  TensorFlow 
+pip install  Keras 
