@@ -44,7 +44,7 @@ The analysis explores:
 
 ## 📌 How to Run
 
-1. Clone the repository
+1. Clone the repository:https://github.com/hammadalam1/Stock-Market-Analysis-Using-LSTM.git
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
